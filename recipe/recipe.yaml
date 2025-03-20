@@ -1,5 +1,5 @@
 context:
-  version: 0.4.3
+  version: "0.5.0"
 
 package:
   name: llama-index-vector-stores-qdrant
@@ -7,7 +7,7 @@ package:
 
 source:
   - url: https://pypi.org/packages/source/l/llama-index-vector-stores-qdrant/llama_index_vector_stores_qdrant-${{ version }}.tar.gz
-    sha256: 279abe65eb83942a87abb837722a4b77cab8380d639adbe3275bedeff9061105
+    sha256: 7d6eb316c3fff921f2ba893b2dc7c25635c3fc36db3fdf3fbff8d50f2ef301eb
   - url: https://raw.githubusercontent.com/run-llama/llama_index/main/LICENSE
     sha256: 24f40b5190fdacabc24ddbb5f76364d15e4f030925220ea300d8a2dd4993c8cb
 
